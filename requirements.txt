@@ -1,0 +1,8 @@
+streamlit
+streamlit-ketcher
+rdkit
+numpy
+matplotlib
+pandas
+requests
+Pillow
